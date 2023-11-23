@@ -1,0 +1,1 @@
+gs_MAX_Goods.splat filter=lfs diff=lfs merge=lfs -text
